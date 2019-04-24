@@ -1,7 +1,7 @@
 
 ## Overview
 
-This is the curriculum for [this](https://youtu.be/_qjNH1rDLm0) video
+The only prerequisite is knowing basic Python.
 
 ## Week 1 - Feedforward Neural Networks and Backpropagation
 
